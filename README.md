@@ -8,4 +8,4 @@ Open the `index.html` file in your web browser to use the calculator.
 
 ## Visit My Website
 
-To see my work, visit [My Website](https://inshotspro.com/inshot-for-pc).
+To see my work, visit [My Design](https://inshotspro.com/inshot-for-pc).
